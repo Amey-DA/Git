@@ -1,0 +1,6 @@
+File B it is
+
+Hello Ms visual studio
+
+Hello again
+
